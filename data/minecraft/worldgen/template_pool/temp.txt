@@ -1,0 +1,54 @@
+{
+  "weight": 1,
+  "element": {
+    "element_type": "minecraft:single_pool_element",
+    "projection": "rigid",
+    "location": "minecraft:maze/maze_piece1",
+    "processors": "minecraft:empty"
+  }
+},
+{
+  "weight": 1,
+  "element": {
+    "element_type": "minecraft:single_pool_element",
+    "projection": "rigid",
+    "location": "minecraft:maze/maze_piece2",
+    "processors": "minecraft:empty"
+  }
+},
+{
+  "weight": 4,
+  "element": {
+    "element_type": "minecraft:single_pool_element",
+    "projection": "rigid",
+    "location": "minecraft:maze/maze_piece3",
+    "processors": "minecraft:empty"
+  }
+},
+{
+  "weight": 1,
+  "element": {
+    "element_type": "minecraft:single_pool_element",
+    "projection": "rigid",
+    "location": "minecraft:maze/maze_piece4",
+    "processors": "minecraft:empty"
+  }
+},
+{
+  "weight": 1,
+  "element": {
+    "element_type": "minecraft:single_pool_element",
+    "projection": "rigid",
+    "location": "minecraft:maze/maze_piece5",
+    "processors": "minecraft:empty"
+  }
+},
+{
+  "weight": 1,
+  "element": {
+    "element_type": "minecraft:single_pool_element",
+    "projection": "rigid",
+    "location": "minecraft:maze/maze_piece6",
+    "processors": "minecraft:empty"
+  }
+},
