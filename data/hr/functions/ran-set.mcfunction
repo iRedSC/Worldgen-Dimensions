@@ -3,5 +3,6 @@ execute if predicate hr:ran-25 unless score @s HR.ran matches ..0 run scoreboard
 execute if predicate hr:ran-50 unless score @s HR.ran matches ..0 run scoreboard players remove @s HR.ran 1
 execute if predicate hr:ran-75 unless score @s HR.ran matches ..0 run scoreboard players remove @s HR.ran 1
 scoreboard players add @s HR.ranSet 1
-execute if score @s HR.ranSet matches 15.. run scoreboard players set @s HR.ranSet 1
+execute if entity @s[tag=fcMarker] if score @s HR.ranSet matches 4.. run scoreboard players set @s HR.ranSet 1
+execute if entity @s[tag=wallMarker] if score @s HR.ranSet matches 26.. run scoreboard players set @s HR.ranSet 1
 execute unless score @s HR.ran matches ..0 run function hr:ran-set
