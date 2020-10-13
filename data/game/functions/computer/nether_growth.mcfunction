@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"Computer >> ","color":"gray"},{"text":"-s Scan Results: ","color":"white"},{"text":"Plant Matter Healthy","color":"green"},{"text":"\n"},{"text":"Computer >>","color":"gray"},{"text":" -t "},{"text":"Time Query: ","color":"white"},{"text":"11:24 ","color":"aqua"},{"text":"-d Date: 11/12/01","color":"white"}]
