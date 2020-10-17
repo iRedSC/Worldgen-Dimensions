@@ -4,3 +4,5 @@ give @s armor_stand{display:{Name:'{"text":"Kill Hall Marker","color":"red","bol
 give @s armor_stand{display:{Name:'{"text":"Flicker Light","color":"red","bold":true,"italic":false}'},EntityTag:{Small:1b,Marker:1b,Invisible:1b,Tags:["flickerLight"]}} 1
 give @s armor_stand{display:{Name:'{"text":"Medium Decor","color":"light_purple","bold":true,"italic":false}'},EntityTag:{Small:1b,Marker:1b,Invisible:1b,Tags:["decorM","decorMarker"]}} 1
 give @s armor_stand{display:{Name:'{"text":"Large Decor","color":"light_purple","bold":true,"italic":false}'},EntityTag:{Small:1b,Marker:1b,Invisible:1b,Tags:["decorL","decorMarker"]}} 1
+give @s armor_stand{display:{Name:'{"text":"Small Decor","color":"light_purple","bold":true,"italic":false}'},EntityTag:{Small:1b,Marker:1b,Invisible:1b,Tags:["decorS","decorMarker"]}} 1
+give @s armor_stand{display:{Name:'{"text":"Air Lock","color":"yellow","bold":true,"italic":false}'},EntityTag:{Small:1b,Marker:1b,Invisible:1b,Tags:["airLock"]}} 1
