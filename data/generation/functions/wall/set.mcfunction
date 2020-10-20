@@ -32,4 +32,8 @@ execute if score @s HR.ranSet matches 31 run setblock ~ ~ ~ minecraft:structure_
 execute if score @s HR.ranSet matches 32 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{metadata:"",mirror:"NONE",ignoreEntities:0b,powered:0b,seed:0L,author:"redstonecharger",rotation:"NONE",posX:-8,mode:"LOAD",posY:-3,sizeX:17,posZ:-8,integrity:1.0f,showair:0b,name:"minecraft:w32",sizeY:6,sizeZ:17,showboundingbox:0b}
 execute if score @s HR.ranSet matches 33 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{metadata:"",mirror:"NONE",ignoreEntities:0b,powered:0b,seed:0L,author:"redstonecharger",rotation:"NONE",posX:-8,mode:"LOAD",posY:-1,sizeX:17,posZ:-8,integrity:1.0f,showair:0b,name:"minecraft:w33",sizeY:6,sizeZ:17,showboundingbox:0b}
 execute if score @s HR.ranSet matches 34 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{metadata:"",mirror:"NONE",ignoreEntities:0b,powered:0b,seed:0L,author:"redstonecharger",rotation:"NONE",posX:-8,mode:"LOAD",posY:-1,sizeX:17,posZ:-8,integrity:1.0f,showair:0b,name:"minecraft:w34",sizeY:6,sizeZ:17,showboundingbox:0b}
+execute if score @s HR.ranSet matches 35 run setblock ~ ~ ~ minecraft:structure_block[mode=load]{metadata:"",mirror:"NONE",ignoreEntities:0b,powered:0b,seed:0L,author:"redstonecharger",rotation:"NONE",posX:-8,mode:"LOAD",posY:-1,sizeX:17,posZ:-8,integrity:1.0f,showair:0b,name:"minecraft:w35",sizeY:6,sizeZ:17,showboundingbox:0b}
+
+
+
 tag @s add setblock

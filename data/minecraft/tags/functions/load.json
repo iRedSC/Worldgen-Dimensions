@@ -3,9 +3,10 @@
    [
 
 
-     "hr:loop-0_5s",
-     "hr:loop-0_5s2",
-     "hr:init"
+     "generation:loop-0_5s",
+     "generation:gen/block",
+     "generation:init",
+     "generation:config"
 
 
    ]
