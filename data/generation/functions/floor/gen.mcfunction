@@ -1,4 +1,4 @@
-execute unless block ^ ^-1 ^2 air run function generation:kill
+execute unless block ^ ^-1 ^5 air run function generation:kill
 
 execute if block ^ ^-1 ^2 air if block ^ ^ ^18 structure_block run setblock ^ ^ ^17 redstone_block
 
