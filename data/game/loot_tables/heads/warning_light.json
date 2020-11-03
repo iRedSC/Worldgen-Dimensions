@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:command",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wooden_sword",
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{display:{Name:'{\"text\":\"Circuit Drive\",\"italic\":false}',Lore:['{\"text\":\" \"}','{\"text\":\"\\\\\"A simple circuit drive\\\\\"\",\"color\":\"gray\",\"italic\":false}','[{\"text\":\"Usage: \",\"color\":\"gold\"},{\"text\":\"Used to activate power stations.\",\"color\":\"green\"}]','{\"text\":\"Can also be scrapped.\",\"color\":\"dark_aqua\"}']},HideFlags:38,Unbreakable:1b,CustomModelData:1,DriveType:\"circuit\",AttributeModifiers:[{AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Amount:1,Operation:0,UUID:[I;1720140443,1910196098,-1811631136,-1563881003],Slot:\"mainhand\"}]}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

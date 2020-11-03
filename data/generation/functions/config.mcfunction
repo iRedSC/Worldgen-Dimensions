@@ -4,7 +4,7 @@
 scoreboard players set gen.lwall.count config 24
 
 # Wall sample count
-scoreboard players set gen.wall.count config 39
+scoreboard players set gen.wall.count config 40
 
 # Floor sample count
 scoreboard players set gen.floor.count config 2
